@@ -61,7 +61,7 @@ Para manter o projeto dentro de seu escopo inicial, algumas limitações serão 
 | Biblioteca padrão do Python | Implementação das funcionalidades sem dependências externas |
 
 ## 📅 7. Prazo do Projeto
-
+**Data Inicial do projeto:** 16/11/2026.
 **Data limite para conclusão:** 11 de dezembro de 2026.
 
 ---
