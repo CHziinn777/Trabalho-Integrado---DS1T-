@@ -67,3 +67,4 @@ Para manter o projeto dentro de seu escopo inicial, algumas limitações serão 
 ---
 
 ## 📄 Licença
+[Projeto Integrador DS1T.docx](https://github.com/user-attachments/files/34980993/Projeto.Integrador.DS1T.docx)
