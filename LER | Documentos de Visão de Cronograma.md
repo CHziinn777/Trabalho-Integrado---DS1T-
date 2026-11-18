@@ -14,3 +14,5 @@
 
 (Landing Page) Requisitos Não funcionais /001
 [Uploading Levantamento de requisitos (RNF002).pdf…]()
+
+(Landing Page) Critérios da Divulgação (Wireframe) /001[Criterios da Divulgação Sistema La Pasta (Critérios do Wireframe).docx](https://github.com/user-attachments/files/35040060/Criterios.da.Divulgacao.Sistema.La.Pasta.Criterios.do.Wireframe.docx)
