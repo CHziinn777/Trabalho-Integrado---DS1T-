@@ -13,7 +13,8 @@
 [Levantamento de Requisitos Não funcionais - 002.pdf](https://github.com/user-attachments/files/34991698/Levantamento.de.Requisitos.Nao.funcionais.-.002.pdf)
 
 (Landing Page) Requisitos Não funcionais /001
-[Uploading Levantamento de requisitos (RNF002).pdf…]()
+[Levantamento de requisitos (RNF002).pdf](https://github.com/user-attachments/files/35040219/Levantamento.de.requisitos.RNF002.pdf)
+
 
 (Landing Page) Requisitos Funcionais /001
 [Levantamento de Requisitos - 001 .docx](https://github.com/user-attachments/files/35040113/Levantamento.de.Requisitos.-.001.docx)
