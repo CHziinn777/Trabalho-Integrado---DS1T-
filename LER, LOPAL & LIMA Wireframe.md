@@ -8,5 +8,6 @@ https://wireframe.cc/VI0PUk
 
 https://wireframe.cc/UNRAa9
 
+Cadastro de Motoboys / https://wireframe.cc/UNRAa9 
 
-Tela 3 / Cadastro de Motoboys / https://wireframe.cc/UNRAa9 
+Indicador de Disponibilidade / https://wireframe.cc/EbvBpd
