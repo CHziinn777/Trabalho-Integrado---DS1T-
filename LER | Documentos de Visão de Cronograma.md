@@ -23,3 +23,7 @@
 [Levantamento de Requisitos de Projeto e Regra de Negócio - 001.docx](https://github.com/user-attachments/files/35040142/Levantamento.de.Requisitos.de.Projeto.e.Regra.de.Negocio.-.001.docx)
 
 (Landing Page) Critérios da Divulgação (Wireframe) /001[Criterios da Divulgação Sistema La Pasta (Critérios do Wireframe).docx](https://github.com/user-attachments/files/35040060/Criterios.da.Divulgacao.Sistema.La.Pasta.Criterios.do.Wireframe.docx)
+
+
+Modelo Wireframe
+https://wireframe.cc/VI0PUk
