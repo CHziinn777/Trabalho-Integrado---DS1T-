@@ -15,6 +15,7 @@ Indicador de Disponibilidade / https://wireframe.cc/EbvBpd
 Histórico de entregas / https://wireframe.cc/UmGX3Q
 
 Landing Page (Desktop) / https://wireframe.cc/Tw9pmH
+
 Landing Page (Mobile) / https://wireframe.cc/fAIjzi
 
 Recibos e comprovantes/ https://wireframe.cc/UU8yIu
