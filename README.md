@@ -4,11 +4,11 @@
 
 > Sistema desktop interno para gerenciamento operacional de um serviço de delivery de comida italiana.
 
-*Equipe Técnica do Projeto*
-| Nome   | Função |
-| Carlos | Back-End |
-| Sergio | Front-end |
-| Caio   | Infraestrutura |
+## Equipe Técnica do Projeto
+| **Nome**   | Função |
+| **Carlos** | Back-End |
+| **Sergio** | Front-end |
+| **Caio**   | Infraestrutura |
 
 
 ## 📌 1. Identificação do Projeto
