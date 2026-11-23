@@ -18,7 +18,6 @@ Landing Page (Desktop) / https://wireframe.cc/Tw9pmH
 
 Landing Page (Mobile) / https://wireframe.cc/fAIjzi
 
-                                        ---FIGMA---
-https://www.figma.com/design/3FBbLHcmMtu4hDveMHsVa7/Sem-t%C3%ADtulo?node-id=0-1&t=KkcACL2KKlxvPneZ-1
+                                                      --- Figma / https://www.figma.com/design/3FBbLHcmMtu4hDveMHsVa7/Sem-t%C3%ADtulo?node-id=0-1&t=KkcACL2KKlxvPneZ-1 --- 
 
 Recibos e comprovantes/ https://wireframe.cc/UU8yIu
